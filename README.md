@@ -14,7 +14,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 ### DIA 18
 
 * [Não é Bruxaria, é Pandas](http://dontpad.com/pybrpandas) - [Fernando Masanori](https://github.com/fmasanori)
-* [Django Girls - Django Girls](https://tutorial.djangogirls.org/pt/)
+* [Django Girls](https://tutorial.djangogirls.org/pt/) - [Django Girls](https://djangogirls.org)
 * [Estrutura de Dados é ❤](http://dontpad.com/EDLove) - [Fernando Masanori](https://github.com/fmasanori)
 
 ## Palestras
@@ -23,7 +23,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 
 * Keynote - [Daniela Petruzalek](https://github.com/danicat)
 * 2 anos de trabalho remoto - o lado bom e os problemas [Pessoas] - [Julio Cesar Eiras Melanda](https://github.com/jcemelanda)
-* O casamento sagrado entre o Pipfile, pip e Virtualenv [DevOPS] - Allythy Rennan Medeiros de Souza
+* [O casamento sagrado entre o Pipfile, pip e Virtualenv](https://github.com/allythy/Palestras/tree/master/O%20casamento%20sagrado%20entre%20o%20Pipfile%2Cpip%20e%20Virtualenv) [DevOPS] - [Allythy Rennan Medeiros de Souza](https://github.com/allythy)
 * Perdendo o medo da Web com Django [Web] - [Ryllari Raianne Marques de Santana](https://github.com/Ryllari)
 * [Web crawling e scraping com Scrapy e Scrapy Cloud](https://scrapy-slides.netlify.com) [Data Science] - [Lidiane Mayra Taquehara](https://github.com/lidimayra)
 * [Criando clients inteligentes com o simple-rest-client](https://allisson.github.io/slides/2018/pythonbrasil/#/) [Web] - [Allisson Geraldo Alves Azevedo](https://github.com/allisson)
@@ -37,7 +37,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Robótica com Python: Caso Robolt-0 [Dev] - Alynne Ferreira Sousa
 * Física e Python, uma relação simples e prática! [Dev] - Ana Maria Gomes da Silva
 * Envie e Esqueça – Messaging 101 [Dev] - Andre Pastore
-* [Mas afinal, para que serve Análise de Sentimentos? [Data Science]](https://github.com/betinacosta/handson-sentiment-analysis) - [Betina Manoel da Costa](https://github.com/betinacosta/)
+* [Mas afinal, para que serve Análise de Sentimentos?](https://github.com/betinacosta/handson-sentiment-analysis) [Data Science] - [Betina Manoel da Costa](https://github.com/betinacosta/)
 * Quebrei minhas aplicações em microsserviços, e agora? [Web] - Bianca Rosa de Mendonça
 * Fazendo interfaces em modo texto com Python e urwid [Dev] - [Elias Dorneles da Silveira Junior](https://github.com/eliasdorneles)
 * Desenhando Doideras com Python [Dev] - Bernardo Fontes
@@ -93,10 +93,10 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Infraestrutura MySQL no Facebook [DevOPS] - Artur Rodrigues
 * Do REST ao GraphQL com Python [Web] - Hudson Brendon Silva
 * print(\"Você já ensinou Python para uma pessoa hoje?\") [Pessoas] - Soraya Roberta dos Santos Medeiros
-* Implementando suporte a multi-tenancy em uma aplicação crítica [Web] - Victor Paiva Torres
+* [Implementando suporte a multi-tenancy em uma aplicação crítica](https://speakerdeck.com/victortorres/implementando-suporte-a-multi-tenancy-em-uma-aplicacao-critica) [Web] - [Victor Paiva Torres](https://github.com/victor-torres)
 * SUAP - Um software desenvolvido por uma instituição pública para instituições públicas [Web] - Eriton de Barros Farias
 * CI/CD - Automatizando a entrega da sua aplicação [DevOPS] - Yros Pereira Aguiar Batista
-* Aprendendo com os erros [Pessoas] - Luiz Orlando Pereira Braga
+* [Aprendendo com os erros](https://speakerdeck.com/labcodes/aprendendo-com-os-erros) [Pessoas] - [Luiz Orlando Pereira Braga](https://github.com/luizbraga)
 * [Brasil.IO: Dados abertos para mais democracia](http://turicas.info/slides/brasil.io/pybr14/#/) [Data Science] - [Álvaro Justen](https://github.com/turicas)
 * Prevendo o resultado de partidas de League of Legends com Python [Data Science] - Marcus Vinicius Ferreira Teixeira
 * Unindo o útil ao agradável: Desenvolvimento de aplicativos móveis com Ionic e Django [Web] - [Lidiane de Souza Monteiro](https://github.com/lidymonteirowm)
@@ -104,7 +104,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * S.O.L.I.D - Como criar uma base de código compreensível, coesa, simples, robusta e livre de bugs [Dev] - Jhonatan de Souza Teixeira
 * Aplicando Domain Driven Design em aplicações WEB usando Python [Web] - [Rômulo Collopy Souza Carrijo](https://github.com/romulocollopy)
 * Como uma modelagem de dados errada pode te dar dor de cabeça e outras lições sobre arquitetura de dados [Data Science] - [Felippe da Motta Raposo](https://github.com/felippemr)
-* Usando recursos avançados da ORM do Django para consultas mais eficientes [Web] - [Mariana Bedran Lesche](https://github.com/maribedran)
+* [Usando recursos avançados da ORM do Django para consultas mais eficientes](https://speakerdeck.com/labcodes/usando-recursos-avancados-da-orm-do-django-para-consultas-mais-eficientes) [Web] - [Mariana Bedran Lesche](https://github.com/maribedran)
 * Open Sourcing The New Test Framework From Facebook [Web] - [Fabio Pugliese Ornellas](https://github.com/fornellas)
 * Keynote | Production Engineering no Facebook - Rainer Alves
 
@@ -131,18 +131,18 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Predição de séries temporais com ênfase em variáveis extraídas de redes de sensores [Data Science] - [Matheus Inácio Batista Santos](https://github.com/matheus013)
 * Desenvolvimento de jogos com PyGame [Dev] - João Victor Seabra Pimentel
 * [Da requisição à resposta - Como o Django processa uma requisição](https://www.ratamero.com/talks/2018/pybr%20-%20Django%20-%20da%20requisição%20à%20resposta/#0) [Web] - [Luciano Ratamero](https://github.com/lucianoratamero/)
-* [Git for the Brave - Rebase [Eng] [Dev]](https://github.com/fabricio-aguiar/talks/tree/master/pythonbrasil-14/git_for_the_brave_rebase) - [Filipe Carvalho Mondaini](https://github.com/mondaini)
+* [Git for the Brave - Rebase [Eng]](https://github.com/fabricio-aguiar/talks/tree/master/pythonbrasil-14/git_for_the_brave_rebase) [Dev] - [Filipe Carvalho Mondaini](https://github.com/mondaini)
 * [Python 2 ou Python 3? - Entendendo (finalmente) as diferenças entre as duas versões principais da linguagem](https://speakerdeck.com/yanorestes/python-2-ou-python-3) [Dev] - [Yan Orestes Elias](https://github.com/yanorestes)
 * [Coração de Node sempre cabe mais um: rodando Python com Node.js](http://nodegirlscode.org/blog/post/material-de-estudo-pythonbrasil-trabalhando-com-python-shell-e-node-js) [Web] - [Camilla Martins](https://github.com/camilla-m) [camilla-m/python-with-nodejs](https://github.com/camilla-m/python-with-nodejs)
 * O Marceneiro de software - como serrote e pregos podem ensinar a ser um programador melhor [Pessoas] - [Euclides da Cunha](https://github.com/euclidescunha)
 * Muito mais que map, filter e reduce [Dev] - [Eduardo Mendes](https://github.com/dunossauro/)
-* [De zero a dev em 3 meses [Pessoas]](https://github.com/fabricio-aguiar/talks/tree/master/pythonbrasil-14/zero_a_dev_em_3_meses) - [Fabricio Aguiar de Oliveira](https://github.com/fabricio-aguiar)
+* [De zero a dev em 3 meses](https://github.com/fabricio-aguiar/talks/tree/master/pythonbrasil-14/zero_a_dev_em_3_meses) [Pessoas] - [Fabricio Aguiar de Oliveira](https://github.com/fabricio-aguiar)
 * Executando Tarefas assíncronas no Django usando Celery [Web] - [Werberth Vinícius Souza Gomes](https://github.com/werberth)
 * Algoritmo Genético com Python - “Fruto do acaso ou de um processo evolutivo?!” [Data Science] - [Ana Paula Mendes](https://github.com/anapauladsmendes)
 * [O que são Blockchains, do que se alimentam e como construir isso com Python](https://github.com/isacmoura/Blockchain_oquesao_talk-pythonbr14/blob/master/o_que_sao_blockchains_pybr14.pdf) [Dev] - [Isac Moura Gomes](https://github.com/isacmoura)
 * [Application/Service Configuration sem dor de cabeça](https://moisesguimaraes.com/talks/talks/2018-09-21-pybr.html#/) [DevOPS] - [Moisés Guimarães de Medeiros](https://github.com/moisesguimaraes/)
 * Sistemas de Recomendação: From Zero to Hero [Data Science] - [Betina Manoel da Costa](https://github.com/betinacosta/)
-* Emulação de processador: primeiros passos para emular um NES em Python [Dev] - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd)
+* [Emulação de processador: primeiros passos para emular um NES em Python](https://www.dropbox.com/s/1j1rbile5034cmy/PythonBrasil14.pdf?dl=0) [Dev] - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd)
 * [PyMongo: Trabalhando com Python e MongoDB](https://speakerdeck.com/arineto/pymongo-trabalhando-com-python-e-mongodb-2?slide=7) [Dev] - [José de Arimatea Rocha Neto](https://github.com/arineto/) [arineto/talk-pymongo](https://github.com/arineto/talk-pymongo)
 * [Como Programar seu Processo de Software](https://docs.google.com/presentation/d/1eGjmsOxRfvUy4U1vqOVSButwYcCbIukHI3sxcRUnoXA/edit) [Dev] - [Robertson Novelino Ferraz Filho](https://twitter.com/robertson_filho)
 * Programação Cidadã: dados abertos e o porquê você deveria estar contribuindo [Data Science] - [Pedro Baesse Alves Pereira](https://github.com/pbaesse)
