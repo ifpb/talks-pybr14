@@ -24,7 +24,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Keynote - [Daniela Petruzalek](https://github.com/danicat)
 * 2 anos de trabalho remoto - o lado bom e os problemas [Pessoas] - [Julio Cesar Eiras Melanda](https://github.com/jcemelanda)
 * [O casamento sagrado entre o Pipfile, pip e Virtualenv](https://github.com/allythy/Palestras/tree/master/O%20casamento%20sagrado%20entre%20o%20Pipfile%2Cpip%20e%20Virtualenv) [DevOPS] - [Allythy Rennan Medeiros de Souza](https://github.com/allythy)
-* Perdendo o medo da Web com Django [Web] - [Ryllari Raianne Marques de Santana](https://github.com/Ryllari)
+* [Perdendo o medo da Web com Django](https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-14/perdendo_o_medo_da_web_com_django/Perdendo_o_medo_da_web_com_Django.pdf) [Web] - [Ryllari Raianne Marques de Santana](https://github.com/Ryllari)
 * [Web crawling e scraping com Scrapy e Scrapy Cloud](https://scrapy-slides.netlify.com) [Data Science] - [Lidiane Mayra Taquehara](https://github.com/lidimayra)
 * [Criando clients inteligentes com o simple-rest-client](https://allisson.github.io/slides/2018/pythonbrasil/#/) [Web] - [Allisson Geraldo Alves Azevedo](https://github.com/allisson)
 * Ansible 101 [DevOPS] - Jairo da Silva Junior
@@ -43,7 +43,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Desenhando Doideras com Python [Dev] - Bernardo Fontes
 * Computação Neuromórfica - dos achados da neurociência a uma nova forma de pensar a computação, usando python. [Data Science] - [Caroline Dantas Silva](http://carolinedantas.com)
 * [Django Rest Framework - Criando API's REST com 3 linhas de código](How to write an API in 3 lines of code with Django REST framework) [Web] - [Carlos Andre Santos Machado](https://github.com/andresmachado)
-* Apresentando graphene uma lib graphql para o django [Web] - Ciro Valente Filho
+* [Apresentando graphene uma lib graphql para o django](https://docs.google.com/presentation/d/1ihYC0A3-xRKAcVm81Ia8WagSgbOgp_aF4NNX5tOyRCk/edit) [Web] - [Ciro Valente Filho](https://github.com/cvalentefilho)
 * Como melhorar o onboarding no seu time com uma DevCLI [Dev] - Camilla F. Crispim &amp; Gabriel Barreto
 * Migrating an older code base to Python 3: the expected and the unexpected [Dev] - Dan-Claudiu Dragoș
 * The photon - What this particle has to do with building software and living the good life [Pessoas] - Whitney Tennant
@@ -81,9 +81,9 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * Python + Machine Learning aplicado em Cyber-Segurança [Data Science] - [Victor Pasknel de Alencar Ribeiro](https://github.com/pasknel)
 * Como construimos o novo site de SciELO para atender mais de 20 milhões de page views por mês acessando conteúdo open access [Web] - Juan Funez
 * [Pensamento Computacional com Blocos e Python](https://docs.google.com/presentation/d/1JVA8Xx7w4DBChg0E-_SPp321J6dQ4cp0DlXNW9lcdYY/mobilepresent?slide=id.gd9c453428_0_16) [Dev] - [Givanaldo Rocha de Souza](https://github.com/givanaldo)
-* Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio [Data Science] - Marcelo Rodrigo dos Santos Andriolli
+* [Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio](https://github.com/pythonbrasil/talks/tree/master/pythonbrasil-14/informacao_salva_python_ajudando_a_entender_um_problema_silencioso_de_saude_publica_no_brasil_e_no_mundo_o_suicidio) [Data Science] - [Marcelo Rodrigo dos Santos Andriolli](https://github.com/marceloandriolli/)
 * Cara Gente Branca do RH [Pessoas] - Andreza Alves Rocha
-* Scrapy beyond the first steps [Data Science] - [Eugenio Lacuesta](https://github.com/elacuesta/) ([elacuesta/scrapy-beyond-first-steps](https://github.com/elacuesta/scrapy-beyond-first-steps))
+* [Scrapy beyond the first steps](https://github.com/pythonbrasil/talks/blob/master/pythonbrasil-14/scrapy_beyond_the_first_steps/presentation_v3.1.pdf) [Data Science] - [Eugenio Lacuesta](https://github.com/elacuesta/) ([elacuesta/scrapy-beyond-first-steps](https://github.com/elacuesta/scrapy-beyond-first-steps))
 * 0o0 (ETL Python e Ruby) - Python não tem preconceito [Dev] - [Elinaldo do Nascimento Monteiro](https://github.com/elinaldosoft)
 * Entenda Blockchain construindo uma [Dev] - Newton José galiza de Andrade Dias
 * [Como Hackear a Biologia com Python](https://www.canva.com/design/DADFfKB6JJw/view) [Data Science] - [Inácio Gomes Medeiros](https://github.com/inaciomdrs)
@@ -117,7 +117,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * A Maelstrom of Pythons (using Python in disaster recovery at scale) [DevOPS] - Hans Ragas
 * Código mais claro com Python3 e Type Hints [Dev] - Diogo Magalhães Martins
 * [Explorando o Petróleo: Uma análise exploratória dos dados públicos da ANP](https://github.com/volpatto/anp-data-analysis) [Data Science] - [Diego Tavares Volpatto](https://github.com/volpatto/)
-* \"Mas dá pra abrir no Excel?\" Exportando para txt, csv e JSON com Python [Dev] - [Renata D'Avila](https://github.com/rsip22)
+* [\"Mas dá pra abrir no Excel?\" Exportando para txt, csv e JSON com Python](https://github.com/pythonbrasil/talks/tree/master/pythonbrasil-14/mas_da_pra_abrir_no_excel_exportar_para_txt_csv_json) [Dev] - [Renata D'Avila](https://github.com/rsip22)
 * Django+: Do modelo de domínio às nuvens [Web] - Carlos Breno Pereira Silva
 * Medindo o preconceito no aprendizado de máquinas [Data Science] - Gustavo Soares Fernandes Coelho
 * [Tecnologia cívica: o que importa são as perguntas](https://speakerdeck.com/cuducos/tecnologia-civica-o-que-importa-sao-as-perguntas?slide=2) [Data Science] - [Eduardo Cuducos](https://github.com/cuducos)
@@ -137,7 +137,7 @@ Palestras e minicuros do Python Brasil [14] realizado na cidade de Natal-RN em o
 * O Marceneiro de software - como serrote e pregos podem ensinar a ser um programador melhor [Pessoas] - [Euclides da Cunha](https://github.com/euclidescunha)
 * Muito mais que map, filter e reduce [Dev] - [Eduardo Mendes](https://github.com/dunossauro/)
 * [De zero a dev em 3 meses](https://github.com/fabricio-aguiar/talks/tree/master/pythonbrasil-14/zero_a_dev_em_3_meses) [Pessoas] - [Fabricio Aguiar de Oliveira](https://github.com/fabricio-aguiar)
-* Executando Tarefas assíncronas no Django usando Celery [Web] - [Werberth Vinícius Souza Gomes](https://github.com/werberth)
+* [Executando Tarefas assíncronas no Django usando Celery](https://speakerdeck.com/werberth/executando-tarefas-assincronas-no-django-usando-celery) [Web] - [Werberth Vinícius Souza Gomes](https://github.com/werberth) ([werberth/python-brasil-14-django-celery-talk](https://github.com/werberth/python-brasil-14-django-celery-talk))
 * Algoritmo Genético com Python - “Fruto do acaso ou de um processo evolutivo?!” [Data Science] - [Ana Paula Mendes](https://github.com/anapauladsmendes)
 * [O que são Blockchains, do que se alimentam e como construir isso com Python](https://github.com/isacmoura/Blockchain_oquesao_talk-pythonbr14/blob/master/o_que_sao_blockchains_pybr14.pdf) [Dev] - [Isac Moura Gomes](https://github.com/isacmoura)
 * [Application/Service Configuration sem dor de cabeça](https://moisesguimaraes.com/talks/talks/2018-09-21-pybr.html#/) [DevOPS] - [Moisés Guimarães de Medeiros](https://github.com/moisesguimaraes/)
